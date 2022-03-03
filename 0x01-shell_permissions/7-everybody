@@ -1,2 +1,3 @@
 #!/bin/bash
--rwxr-x--x
+chmod -rwxr-x--x ./ hello
+
